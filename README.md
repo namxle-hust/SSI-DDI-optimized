@@ -20,6 +20,7 @@ Running the `metrics.ipynb` notebook to get the metrics from the train_metrics f
 
 Other cases notebook result are in the `notebook` folder. 
 The `cases.md` contains all cases we have run during the development process.
+The `cases.md` will show the notes for each case and result of each case.
 
 The most notable cases are:
 
